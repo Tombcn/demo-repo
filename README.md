@@ -10,4 +10,5 @@ more text
 
 1. Open index.html in your browser
 
- Hello new text to be modified
+Hello new text to be modified
+More text to be modified
